@@ -20,6 +20,7 @@
             <thead></thead>
             <tbody></tbody>
         </table>
+        
     </div>
     <script src="script.js"></script>
 </body>
